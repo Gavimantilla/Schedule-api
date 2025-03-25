@@ -1,0 +1,1 @@
+*/5 * * * * /usr/local/bin/python /app/actualizar_datos.py >> /var/log/cron.log 2>&1
